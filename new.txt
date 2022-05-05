@@ -1,1 +1,3 @@
 New file has been improved.
+Adding a new line.
+And another.
