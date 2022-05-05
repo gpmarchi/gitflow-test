@@ -1,3 +1,4 @@
 Gitflow test
 
 Section 1
+Section 2
